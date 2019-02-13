@@ -1,0 +1,18 @@
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+  FB.init({
+    appId  : '179378788777832',
+    status : true, 
+    cookie : true, 
+    xfbml  : true  
+  });
+</script>
+
+<div id="container_notlike">
+YOU DONT LIKE
+</div>
+
+<div id="container_like">
+YOU LIKE
+</div>
